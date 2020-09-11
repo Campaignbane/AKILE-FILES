@@ -1,0 +1,61 @@
+﻿  Answer2.cpp
+  Answer1.cpp
+  Answer3.cpp
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer3.cpp(9,4): error C2601: 'Call': local function definitions are illegal
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer3.cpp(6): message : this line contains a '{' which has not yet been matched
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer3.cpp(20): fatal error C1075: '{': no matching token found
+  Answer4.cpp
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer4.cpp(10,2): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer4.cpp(10,2): error C2065: 'int i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer4.cpp(21,3): error C2065: 'disc': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer4.cpp(20): fatal error C1075: '{': no matching token found
+  Answer5.cpp
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(9,6): error C2143: syntax error: missing ';' before 'if'
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(7,10): error C2065: 'numberofBottles': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(11,10): error C2065: 'numberofBottles': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(13,2): error C2181: illegal else without matching if
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(14,7): error C2065: 'numberofBottles': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(16,2): error C2059: syntax error: 'for'
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(16,2): error C2143: syntax error: missing ')' before ';'
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(16,19): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(16,28): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(16,31): error C2059: syntax error: ')'
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(18,4): error C2065: 'ones': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(18,11): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(18,17): error C2059: syntax error: ';'
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(19,4): error C2065: 'tens': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(19,11): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(20,22): error C2065: 'tens': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(20,12): error C3861: 'tenstring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(20,41): error C2065: 'ones': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(20,31): error C3861: 'onestring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(21,22): error C2065: 'tens': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(21,12): error C3861: 'tenstring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(21,41): error C2065: 'ones': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(21,31): error C3861: 'onestring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(24,8): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(26,4): error C2065: 'ones': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(26,12): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(27,4): error C2065: 'tens': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(27,12): error C2065: 'i': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(28,22): error C2065: 'tens': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(28,12): error C3861: 'tenstring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(28,41): error C2065: 'ones': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(28,31): error C3861: 'onestring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(32,12): error C3861: 'teenstring': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer5.cpp(17): fatal error C1075: '{': no matching token found
+  Answer6.cpp
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(13,20): error C2065: 'side_a': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(13,28): error C2065: 'side_b': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(13,36): error C2065: 'side_c': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(13,5): error C3861: 'area_perimeter': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(15,5): error C3861: 'show_output': identifier not found
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(18,12): error C2065: 'side_a': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(20,12): error C2065: 'side_a': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(23,12): error C2065: 'side_a': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(27,12): error C2065: 'side_b': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(29,12): error C2065: 'side_b': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(32,16): error C2065: 'side_b': undeclared identifier
+C:\Users\Banes\OneDrive\Desktop\akile Assignment\akile Assignment\Answer6.cpp(9): fatal error C1075: '{': no matching token found
+  Answer10.cpp
+  Generating Code...
